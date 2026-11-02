@@ -1,2 +1,2 @@
-# mp-design-group-2
+# mp-design-group-1
 Miniprojekt Design
